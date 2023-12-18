@@ -114,7 +114,7 @@ public class Install extends HttpServlet {
                         {
                             //Database creation
                              Statement stmt = con.createStatement();  
-                             stmt.executeUpdate("DROP DATABASE IF EXISTS "+dbname);
+                     //Fix 4 stmt.executeUpdate("DROP DATABASE IF EXISTS "+dbname);
                              
                              stmt.executeUpdate("CREATE DATABASE "+dbname);
                              con.close();
