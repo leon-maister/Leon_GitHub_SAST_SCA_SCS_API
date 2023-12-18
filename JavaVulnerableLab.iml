@@ -42,9 +42,6 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-jni:9.0.22" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-juli:9.0.22" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat:tomcat-util:9.0.22" level="project" />
-    <orderEntry type="library" name="Maven: io.undertow:undertow-core:2.0.9.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.jboss.xnio:xnio-api:3.3.8.Final" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jboss.xnio:xnio-nio:3.3.8.Final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.3" level="project" />
   </component>
 </module>
