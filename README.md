@@ -2,7 +2,7 @@
 
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.123
 
-**Leon 16 (27.06.2024)  The full course content is now available on Github for free:**
+**Leon 17 (04.04.2024)  The full course content is now available on Github for free:**
 
 https://github.com/CSPF-Founder/JavaSecurityCourse
 
